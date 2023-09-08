@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi there, I'm David 👋
 
-<!--
+- Fullstack Developer 👨🏻‍💻
+- Tech Stack: HTML, CSS, SCSS, JavaScript, MongoDB, Express, React, Node.js 💻
+- Learning: Angular, TypeScript, React Native, Jest, AWS Lambda, Bootstrap 📚
+- 📫 How to reach me: davidrobert.mcintyre@gmail.com
+- 😄 Pronouns: He/him/his
+  <!--
 **davidrmcintyre/davidrmcintyre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
